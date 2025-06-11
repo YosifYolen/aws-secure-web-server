@@ -32,11 +32,9 @@ The web server was successfully accessed via HTTP, demonstrating that the Securi
 ## Screenshots
 
 ### Web Server Output
-*(Replace with your screenshot)*
 ![Web Server Output](https://github.com/YosifYolen/aws-secure-web-server/blob/main/Hello%20from%20my%20secure%20web%20server%20on%20AWS!.JPG?raw=true)
 
 ### Security Group Inbound & Outbound Rules
-*(Replace with your screenshot)*
 ![Security Group Inbound & Outbound Rules](https://github.com/YosifYolen/aws-secure-web-server/blob/main/Inbound%20&%20Outbound%20Rules.JPG?raw=true)
 
 ---
